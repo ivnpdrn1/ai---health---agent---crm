@@ -41,3 +41,11 @@ Terminado: implementación o documento entregado, aceptación comprobada, eviden
 
 ## Cadencia
 Al cerrar cada sesión: actualizar registro y estado. Revisar semanalmente backlog, bloqueos y riesgos. No existe una actualización automática diaria configurada.
+
+## Tareas iniciales en GitHub
+- [B02: Levantar la operación inicial de Sunshine y preparar datos sintéticos](https://github.com/ivnpdrn1/ai---health---agent---crm/issues/1)
+- [B03: Evaluar demo/prueba de Insurance360CRM con casos ficticios](https://github.com/ivnpdrn1/ai---health---agent---crm/issues/2)
+- [B04: Decidir stack, hosting y operación mediante ADR](https://github.com/ivnpdrn1/ai---health---agent---crm/issues/3)
+- [B05: Definir permisos por acción, identidad e aislamiento](https://github.com/ivnpdrn1/ai---health---agent---crm/issues/4)
+
+Las tareas B04/B05 requieren B02; B03 requiere acceso a la demo/prueba. El resto del backlog se convierte en issues al resolver sus dependencias.
